@@ -1,2 +1,2 @@
 # specads
-A speculative design project for DXARTS 471 at the University of Washington
+A collaborative speculative design project with @ryanshappell for DXARTS 471 at the University of Washington
